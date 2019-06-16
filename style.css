@@ -1,0 +1,22 @@
+body{
+    margin: 0px;
+}
+#playground{
+    height:100vh;
+    width:100vw;
+    background-color:rgb(247, 231, 231);
+    position: relative;
+}
+#ball{
+    height:150px;
+    width:150px;
+    background-color: cyan;
+    border-radius: 50%;
+    box-shadow:2px 0px 8px 2px rgba(157, 253, 253, 0.726);
+    
+    position:absolute;
+    left:20px;
+    top:20px;
+    
+    
+}
